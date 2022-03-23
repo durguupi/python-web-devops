@@ -1,0 +1,3 @@
+Hello World
+This file is test file to be opened by filedialog 
+Have a Wonderful life !!
